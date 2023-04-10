@@ -4,7 +4,7 @@
 - Package: `stactools.sentinel3`
 - PyPI: <https://pypi.org/project/stactools-sentinel3/>
 - Owner: @chorng & @willrayeo
-- Dataset homepage: <https://registry.opendata.aws/sentinel-3/>
+- Dataset homepage: <https://sentinel.esa.int/web/sentinel/missions/sentinel-3>
 - STAC extensions used:
   - [eo](https://github.com/stac-extensions/eo)
   - [proj](https://github.com/stac-extensions/projection/)
